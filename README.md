@@ -2,6 +2,11 @@
 
 CMPSC 448 Midterm Project
 
+## Team Members
+
+- Allegra Francis (Team Leader) - Recitation Section 004R
+- Amal Palackal - Recitation Section 003R
+
 ## Team Responsibilities
 
 - RQ1 — LLM identification from generated responses: Amal
